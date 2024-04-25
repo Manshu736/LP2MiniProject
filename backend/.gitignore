@@ -1,0 +1,5 @@
+.env
+/node_modules
+data.csv
+package-lock.json
+backend.zip
